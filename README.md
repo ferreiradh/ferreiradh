@@ -4,7 +4,7 @@
 </p>
 
 <h2> Oi, eu sou o Henrique! <img src="https://media3.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="75"></h2>
-<img align="right" alt="GIF" src="https://pa1.narvii.com/6484/b93255da56ec60939e2e209dd48a8b69a1194981_hq.gif" width="501"/>
+<img align="right" alt="GIF" src="https://pa1.narvii.com/6484/b93255da56ec60939e2e209dd48a8b69a1194981_hq.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
