@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Estudante de Sistemas de Informação na UniMetrocamp;
 - 📱 &nbsp; &nbsp; Fascinado por tecnologia desde criança;
 - 💼 &nbsp; Atualmente estou em busca do meu primeiro estágio;
-- 🏋️‍♂️ &nbsp; Musculação, ciclismo e boa alimentação fazem parte do meu estilo de vida;
+- 🏋️‍♂️ &nbsp; Musculação e ciclismo fazem parte do meu estilo de vida;
 
 <h3>🛠 Competências Técnicas</h3>
 
