@@ -8,14 +8,14 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🎓 &nbsp; Estudante de Sistemas de Informação na UniMetrocamp;
+- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas;
 - 📱 &nbsp; &nbsp; Fascinado por tecnologia desde criança;
-- 💼 &nbsp; Atualmente estou em busca do meu primeiro estágio;
+- 💼 &nbsp; Possuo mais de 5 anos de experiência administrativa; Atualmente trabalho como Analista de Suporte;
 - 🏋️‍♂️ &nbsp; Musculação e ciclismo fazem parte do meu estilo de vida;
 
 <h3>🛠 Competências Técnicas</h3>
 
-- 💻 &nbsp; C | Java | Python
+- 💻 &nbsp; C | Java | Python | SQL
 - 🔧 &nbsp; Hardware
 - 🖥 &nbsp; Windows | Pacote Office | Linux
 
